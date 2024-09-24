@@ -1,0 +1,13 @@
+node_modules
+public
+ffmpeg/*.exe
+logs/*.log
+loggers/*.log
+config/.env.*
+nssm.exe
+docker-compose.yml
+*.conf
+.idea
+README.md
+.git
+library/modules
